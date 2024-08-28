@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Eshmat",
+        "surname": "Toshmatov",
+        "username": "eshmat",
+        "password": "eshmat1"
+    },
+    {
+        "id": 2,
+        "name": "Avazbek",
+        "surname": "Primqulov",
+        "username": "avazbek_1234",
+        "password": "123456"
+    },
+    {
+        "id": 3,
+        "name": "Farangiz",
+        "surname": "Abdusattorova",
+        "username": "sarvinozpastkichizicha",
+        "password": "1dan8gacha"
+    },
+    {
+        "id": 4,
+        "name": "eshmat",
+        "surname": "toshmatov",
+        "username": "sarvinozpastkichizicha1",
+        "password": "12345"
+    },
+    {
+        "id": 5,
+        "name": "islom",
+        "surname": "abdurahmonov",
+        "username": "islom777",
+        "password": "qwerqwerty"
+    },
+    {
+        "id": 6,
+        "name": "Jaxon",
+        "surname": "Xudoyberdiyev",
+        "username": "jaxon05",
+        "password": "12022005"
+    }
+]
