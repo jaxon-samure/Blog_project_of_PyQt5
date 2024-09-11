@@ -3,7 +3,6 @@ from os import system
 
 system("clear")
 
-# MySQL bilan ulanish
 db = mysql.connector.connect(
     host="localhost",
     user="root",
