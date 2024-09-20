@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Home -Jaxon's Blog
+{% endblock %}
+
+{% block content %}
+<section class="header-section">
+  <img src="upload/photo_2024-07-06_20-55-47.jpg">
+  <h1 class="mt-4"> Jaxon Xudoyberdiyev </h1>
+  <h4 class="text-muted">Software Engineer</h4>
+  <div class="social-icons">
+    <a href="#"><i class="fab fa-youtube"></i></a>
+    <a href="#"><i class="fab fa-github"></i></a>
+    <a href="#"><i class="fab fa-linkedin"></i></a>
+    <a href="#"><i class="fab fa-telegram"></i></a>
+  </div>
+  <p>My personal website </p>
+  <div class="d-flex justify-content-center">
+      <a href="{% url 'blog-list' %}" class="btn btn-primary">Read Blog</a>
+      <a href="{% url 'pages:about' %}" class="btn btn-outline-primary">About Me</a>
+  </div>
+</section>
+{% endblock %}
